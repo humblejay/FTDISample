@@ -1,4 +1,4 @@
-Updated
+This is changed
 # FTDI sample for Windows Universal (UWP)
 
 A sample application showcasing the FTDI D2XX driver use in Windows Universal projects (UWP). This sample is tested on the Raspberry PI 2 with Windows IOT installed and a FTDI FT232R usb-to-serial adapter.
